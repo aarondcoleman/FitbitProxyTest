@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "FitbitProxyASPNetCoreFxTest"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-FitbitProxyASPNetCoreFxTest-c4dc852d-1803-4f6b-a701-840f054c1e04;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
